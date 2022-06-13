@@ -1,7 +1,7 @@
 # project_LinkedList
 
 
-Assignment #3 - Linked Lists
+Project #3 - Linked Lists
 
 You are to use Linked Lists to do this program
 
