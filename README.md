@@ -1,5 +1,5 @@
-# DATA Structure Project 
-## Linked Lists
+# DATA Structure Project 3
+## Linked Lists - reading sales data using FIFO
 
 You are to use Linked Lists to do this program
 
