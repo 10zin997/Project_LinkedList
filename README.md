@@ -1,7 +1,5 @@
-# project_LinkedList
-
-
-Project #3 - Linked Lists
+# DATA Structure Project 
+## Linked Lists
 
 You are to use Linked Lists to do this program
 
